@@ -36,15 +36,6 @@ I am an analytical developer specializing in core web application architectures,
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fenilpatel-Builds&show_icons=true&theme=radium&hide_border=true" alt="Fenil's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenilpatel-Builds&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
 ### 🤝 Connect with Me
 * **Portfolio:** [fenil0208.netlify.app](https://fenil0208.netlify.app)
 * **LinkedIn:** [linkedin.com/in/fenil-patel-0208fs](https://linkedin.com/in/fenil-patel-0208fs)
